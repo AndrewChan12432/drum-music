@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/drum-music/static/css/main.e0214069.chunk.css",
-    "main.js": "/drum-music/static/js/main.fd10f65b.chunk.js",
-    "main.js.map": "/drum-music/static/js/main.fd10f65b.chunk.js.map",
+    "main.css": "/drum-music/static/css/main.b66ee868.chunk.css",
+    "main.js": "/drum-music/static/js/main.42fed4f3.chunk.js",
+    "main.js.map": "/drum-music/static/js/main.42fed4f3.chunk.js.map",
     "runtime-main.js": "/drum-music/static/js/runtime-main.b47321c3.js",
     "runtime-main.js.map": "/drum-music/static/js/runtime-main.b47321c3.js.map",
     "static/js/2.ecbe8b8c.chunk.js": "/drum-music/static/js/2.ecbe8b8c.chunk.js",
     "static/js/2.ecbe8b8c.chunk.js.map": "/drum-music/static/js/2.ecbe8b8c.chunk.js.map",
     "index.html": "/drum-music/index.html",
-    "precache-manifest.48d029472b45d7fa29e956d22c28a457.js": "/drum-music/precache-manifest.48d029472b45d7fa29e956d22c28a457.js",
+    "precache-manifest.99574f3a137797abf4867c876d194f6b.js": "/drum-music/precache-manifest.99574f3a137797abf4867c876d194f6b.js",
     "service-worker.js": "/drum-music/service-worker.js",
-    "static/css/main.e0214069.chunk.css.map": "/drum-music/static/css/main.e0214069.chunk.css.map",
+    "static/css/main.b66ee868.chunk.css.map": "/drum-music/static/css/main.b66ee868.chunk.css.map",
     "static/js/2.ecbe8b8c.chunk.js.LICENSE.txt": "/drum-music/static/js/2.ecbe8b8c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b47321c3.js",
     "static/js/2.ecbe8b8c.chunk.js",
-    "static/css/main.e0214069.chunk.css",
-    "static/js/main.fd10f65b.chunk.js"
+    "static/css/main.b66ee868.chunk.css",
+    "static/js/main.42fed4f3.chunk.js"
   ]
 }
