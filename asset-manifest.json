@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/drum-music/static/css/main.d37cb56d.chunk.css",
-    "main.js": "/drum-music/static/js/main.fa8f3845.chunk.js",
-    "main.js.map": "/drum-music/static/js/main.fa8f3845.chunk.js.map",
+    "main.js": "/drum-music/static/js/main.c65afd42.chunk.js",
+    "main.js.map": "/drum-music/static/js/main.c65afd42.chunk.js.map",
     "runtime-main.js": "/drum-music/static/js/runtime-main.b47321c3.js",
     "runtime-main.js.map": "/drum-music/static/js/runtime-main.b47321c3.js.map",
-    "static/js/2.be65309d.chunk.js": "/drum-music/static/js/2.be65309d.chunk.js",
-    "static/js/2.be65309d.chunk.js.map": "/drum-music/static/js/2.be65309d.chunk.js.map",
+    "static/js/2.a5018f38.chunk.js": "/drum-music/static/js/2.a5018f38.chunk.js",
+    "static/js/2.a5018f38.chunk.js.map": "/drum-music/static/js/2.a5018f38.chunk.js.map",
     "index.html": "/drum-music/index.html",
-    "precache-manifest.945e8f7cd56817c25b55e5d157aab11e.js": "/drum-music/precache-manifest.945e8f7cd56817c25b55e5d157aab11e.js",
+    "precache-manifest.191cec23d44790fa350af553de6559ff.js": "/drum-music/precache-manifest.191cec23d44790fa350af553de6559ff.js",
     "service-worker.js": "/drum-music/service-worker.js",
     "static/css/main.d37cb56d.chunk.css.map": "/drum-music/static/css/main.d37cb56d.chunk.css.map",
-    "static/js/2.be65309d.chunk.js.LICENSE.txt": "/drum-music/static/js/2.be65309d.chunk.js.LICENSE.txt",
-    "static/media/buzzerSound.mpeg": "/drum-music/static/media/buzzerSound.5b30c18a.mpeg"
+    "static/js/2.a5018f38.chunk.js.LICENSE.txt": "/drum-music/static/js/2.a5018f38.chunk.js.LICENSE.txt",
+    "static/media/dak.mp3": "/drum-music/static/media/dak.dac7b4c0.mp3",
+    "static/media/dom.mp3": "/drum-music/static/media/dom.0a866289.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.b47321c3.js",
-    "static/js/2.be65309d.chunk.js",
+    "static/js/2.a5018f38.chunk.js",
     "static/css/main.d37cb56d.chunk.css",
-    "static/js/main.fa8f3845.chunk.js"
+    "static/js/main.c65afd42.chunk.js"
   ]
 }
