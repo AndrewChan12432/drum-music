@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/drum-music/static/css/main.d37cb56d.chunk.css",
-    "main.js": "/drum-music/static/js/main.c65afd42.chunk.js",
-    "main.js.map": "/drum-music/static/js/main.c65afd42.chunk.js.map",
+    "main.js": "/drum-music/static/js/main.8d471853.chunk.js",
+    "main.js.map": "/drum-music/static/js/main.8d471853.chunk.js.map",
     "runtime-main.js": "/drum-music/static/js/runtime-main.b47321c3.js",
     "runtime-main.js.map": "/drum-music/static/js/runtime-main.b47321c3.js.map",
     "static/js/2.a5018f38.chunk.js": "/drum-music/static/js/2.a5018f38.chunk.js",
     "static/js/2.a5018f38.chunk.js.map": "/drum-music/static/js/2.a5018f38.chunk.js.map",
     "index.html": "/drum-music/index.html",
-    "precache-manifest.191cec23d44790fa350af553de6559ff.js": "/drum-music/precache-manifest.191cec23d44790fa350af553de6559ff.js",
+    "precache-manifest.9a6ec028bc810973bab2ee40972d85b4.js": "/drum-music/precache-manifest.9a6ec028bc810973bab2ee40972d85b4.js",
     "service-worker.js": "/drum-music/service-worker.js",
     "static/css/main.d37cb56d.chunk.css.map": "/drum-music/static/css/main.d37cb56d.chunk.css.map",
     "static/js/2.a5018f38.chunk.js.LICENSE.txt": "/drum-music/static/js/2.a5018f38.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.b47321c3.js",
     "static/js/2.a5018f38.chunk.js",
     "static/css/main.d37cb56d.chunk.css",
-    "static/js/main.c65afd42.chunk.js"
+    "static/js/main.8d471853.chunk.js"
   ]
 }
