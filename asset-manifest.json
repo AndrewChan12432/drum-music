@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/drum-music/static/css/main.b07bef3e.chunk.css",
-    "main.js": "/drum-music/static/js/main.34612ba0.chunk.js",
-    "main.js.map": "/drum-music/static/js/main.34612ba0.chunk.js.map",
+    "main.css": "/drum-music/static/css/main.5062ed81.chunk.css",
+    "main.js": "/drum-music/static/js/main.0fa90aa0.chunk.js",
+    "main.js.map": "/drum-music/static/js/main.0fa90aa0.chunk.js.map",
     "runtime-main.js": "/drum-music/static/js/runtime-main.b47321c3.js",
     "runtime-main.js.map": "/drum-music/static/js/runtime-main.b47321c3.js.map",
-    "static/js/2.2b8c09f4.chunk.js": "/drum-music/static/js/2.2b8c09f4.chunk.js",
-    "static/js/2.2b8c09f4.chunk.js.map": "/drum-music/static/js/2.2b8c09f4.chunk.js.map",
+    "static/js/2.dff0f7b4.chunk.js": "/drum-music/static/js/2.dff0f7b4.chunk.js",
+    "static/js/2.dff0f7b4.chunk.js.map": "/drum-music/static/js/2.dff0f7b4.chunk.js.map",
     "index.html": "/drum-music/index.html",
-    "precache-manifest.a98b05857c84b56d54b03238521f29a8.js": "/drum-music/precache-manifest.a98b05857c84b56d54b03238521f29a8.js",
+    "precache-manifest.82ffd4c11b89ebe4df1c04c26d74313e.js": "/drum-music/precache-manifest.82ffd4c11b89ebe4df1c04c26d74313e.js",
     "service-worker.js": "/drum-music/service-worker.js",
-    "static/css/main.b07bef3e.chunk.css.map": "/drum-music/static/css/main.b07bef3e.chunk.css.map",
-    "static/js/2.2b8c09f4.chunk.js.LICENSE.txt": "/drum-music/static/js/2.2b8c09f4.chunk.js.LICENSE.txt",
+    "static/css/main.5062ed81.chunk.css.map": "/drum-music/static/css/main.5062ed81.chunk.css.map",
+    "static/js/2.dff0f7b4.chunk.js.LICENSE.txt": "/drum-music/static/js/2.dff0f7b4.chunk.js.LICENSE.txt",
     "static/media/dak.mp3": "/drum-music/static/media/dak.dac7b4c0.mp3",
     "static/media/dom.mp3": "/drum-music/static/media/dom.0a866289.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.b47321c3.js",
-    "static/js/2.2b8c09f4.chunk.js",
-    "static/css/main.b07bef3e.chunk.css",
-    "static/js/main.34612ba0.chunk.js"
+    "static/js/2.dff0f7b4.chunk.js",
+    "static/css/main.5062ed81.chunk.css",
+    "static/js/main.0fa90aa0.chunk.js"
   ]
 }
