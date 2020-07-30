@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/drum-music/static/css/main.5062ed81.chunk.css",
-    "main.js": "/drum-music/static/js/main.79a99362.chunk.js",
-    "main.js.map": "/drum-music/static/js/main.79a99362.chunk.js.map",
+    "main.css": "/drum-music/static/css/main.a96fa45c.chunk.css",
+    "main.js": "/drum-music/static/js/main.858fe95d.chunk.js",
+    "main.js.map": "/drum-music/static/js/main.858fe95d.chunk.js.map",
     "runtime-main.js": "/drum-music/static/js/runtime-main.b47321c3.js",
     "runtime-main.js.map": "/drum-music/static/js/runtime-main.b47321c3.js.map",
-    "static/js/2.dff0f7b4.chunk.js": "/drum-music/static/js/2.dff0f7b4.chunk.js",
-    "static/js/2.dff0f7b4.chunk.js.map": "/drum-music/static/js/2.dff0f7b4.chunk.js.map",
+    "static/js/2.4faa5c3f.chunk.js": "/drum-music/static/js/2.4faa5c3f.chunk.js",
+    "static/js/2.4faa5c3f.chunk.js.map": "/drum-music/static/js/2.4faa5c3f.chunk.js.map",
     "index.html": "/drum-music/index.html",
-    "precache-manifest.5f33bbc66399c12fe7f8847d814363e7.js": "/drum-music/precache-manifest.5f33bbc66399c12fe7f8847d814363e7.js",
+    "precache-manifest.7f3f66400a191ce7910782226cc078e3.js": "/drum-music/precache-manifest.7f3f66400a191ce7910782226cc078e3.js",
     "service-worker.js": "/drum-music/service-worker.js",
-    "static/css/main.5062ed81.chunk.css.map": "/drum-music/static/css/main.5062ed81.chunk.css.map",
-    "static/js/2.dff0f7b4.chunk.js.LICENSE.txt": "/drum-music/static/js/2.dff0f7b4.chunk.js.LICENSE.txt",
+    "static/css/main.a96fa45c.chunk.css.map": "/drum-music/static/css/main.a96fa45c.chunk.css.map",
+    "static/js/2.4faa5c3f.chunk.js.LICENSE.txt": "/drum-music/static/js/2.4faa5c3f.chunk.js.LICENSE.txt",
     "static/media/dak.mp3": "/drum-music/static/media/dak.dac7b4c0.mp3",
     "static/media/dom.mp3": "/drum-music/static/media/dom.0a866289.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.b47321c3.js",
-    "static/js/2.dff0f7b4.chunk.js",
-    "static/css/main.5062ed81.chunk.css",
-    "static/js/main.79a99362.chunk.js"
+    "static/js/2.4faa5c3f.chunk.js",
+    "static/css/main.a96fa45c.chunk.css",
+    "static/js/main.858fe95d.chunk.js"
   ]
 }
